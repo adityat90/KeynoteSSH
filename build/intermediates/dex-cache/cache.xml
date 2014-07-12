@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/sunilnt/AndroidStudioProjects/KeynoteSSH/app/build/intermediates/pre-dexed/debug/jsch-0.1.51-8acfee4d0b493bd03771b1cf8e35ec84b608f896.jar"
+        jar="/Users/sunilnt/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.51/6ceee2696b07cc320d0e1aaea82c7b40768aca0f/jsch-0.1.51.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6ceee2696b07cc320d0e1aaea82c7b40768aca0f"/>
+
+</pre-dex-items>
