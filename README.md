@@ -1,8 +1,5 @@
 KeynoteSSH
 ==========
-
-KeynoteSSH
-==========
 Simple app that connects to keynote via SSH and controls your Keynote presentation
 
 Dependencies
